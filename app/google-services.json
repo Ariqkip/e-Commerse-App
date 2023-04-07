@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "489404181742",
+    "project_id": "esalesapp-17291",
+    "storage_bucket": "esalesapp-17291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489404181742:android:50458f340f9854ae9057ff",
+        "android_client_info": {
+          "package_name": "com.deveric.esales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489404181742-auqsvdt9dm6krr0mdhrr57od2uibmcba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deveric.esales",
+            "certificate_hash": "ae54b9fcb30f839d235115a07379be71dcb584b4"
+          }
+        },
+        {
+          "client_id": "489404181742-jjprrral78ljrru99hc91a710ictt2c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVnqxLhgvoiQb_sCfNnmu1Wd6a2h-7iUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489404181742-jjprrral78ljrru99hc91a710ictt2c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
